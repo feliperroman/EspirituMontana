@@ -1,0 +1,32 @@
+{
+  "name": "espiritu_montana",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "file-saver": "^2.0.5",
+    "moment": "^2.29.4",
+    "primeflex": "^3.3.1",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.29.2",
+    "prismjs": "^1.29.0",
+    "sass": "^1.63.6",
+    "sass-loader": "^13.3.2",
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.2",
+    "vuetify": "^3.3.14",
+    "vuex": "^4.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.9"
+  }
+}
